@@ -50,7 +50,7 @@ SQLAlchemy-serializer
 stack-data
 tldextract
 traitlets
-typing_extension
+
 urllib3
 wcwidth
 Werkzeug
